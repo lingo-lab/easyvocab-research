@@ -1,0 +1,6 @@
+[project]
+name = "easyvocab-research"
+version = "0.1.0"
+description = "Evaluation and agentic experiments for LLM vocabulary card generation"
+requires-python = ">=3.12"
+dependencies = []
